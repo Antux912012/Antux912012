@@ -42,7 +42,7 @@
 | **Systems & Languages** | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Vala](https://img.shields.io/badge/Vala-4B89AC?style=for-the-badge&logo=gnome&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Native GUI & Graphics** | ![GTK4](https://img.shields.io/badge/GTK4-4B89AC?style=for-the-badge&logo=gtk&logoColor=white) ![Libadwaita](https://img.shields.io/badge/Libadwaita-3584E4?style=for-the-badge&logo=gnome&logoColor=white) ![WebKitGTK 6.0](https://img.shields.io/badge/WebKitGTK_6.0-3B6F96?style=for-the-badge&logo=safari&logoColor=white) ![Wayland](https://img.shields.io/badge/Wayland-333333?style=for-the-badge&logo=linux&logoColor=white) ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white) |
 | **Bioinformatics & Data Science** | ![Galaxy Project](https://img.shields.io/badge/Galaxy_REST_API-5851DB?style=for-the-badge&logo=dna&logoColor=white) ![Quarto](https://img.shields.io/badge/Quarto-3F72AF?style=for-the-badge&logo=quarto&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) |
-| **Packaging & Infrastructure** | ![Flatpak](https://img.shields.io/badge/Flatpak-4B89AC?style=for-the-badge&logo=flatpak&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) ![Arch / AUR](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white) |
+| **Packaging & Infrastructure** | ![Flatpak](https://img.shields.io/badge/Flatpak-4B89AC?style=for-the-badge&logo=flatpak&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) ![Arch / AUR](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white) |
 
 </div>
 
@@ -74,12 +74,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Antux912012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antux912012&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Antux912012&theme=nord_dark" alt="GitHub Stats" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Antux912012&theme=nord_dark" alt="Top Languages" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Antux912012&theme=tokyonight&hide_border=true" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Antux912012&theme=nord&hide_border=true" alt="GitHub Streak" width="97%" />
 
 </div>
 
