@@ -4,7 +4,7 @@
 ### Bioinformatician · Biological Scientist (BSc Hons) · Linux Systems & GTK4 Architect
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-antux912012.github.io-5E81AC?style=flat-square&logo=googlechrome&logoColor=white)](https://antux912012.github.io/)
-[![Imladris IDE](https://img.shields.io/badge/Flagship%20IDE-Imladris%20v0.18.0-88C0D0?style=flat-square&logo=gnome&logoColor=white)](https://antux912012.github.io/imladris/)
+[![Imladris IDE](https://img.shields.io/badge/Flagship%20IDE-Imladris%20v0.24.2-88C0D0?style=flat-square&logo=gnome&logoColor=white)](https://antux912012.github.io/imladris/)
 [![GitHub Followers](https://img.shields.io/github/followers/Antux912012?label=Followers&style=flat-square&color=2b7bdd)](https://github.com/Antux912012)
 [![GitHub Stars](https://img.shields.io/github/stars/Antux912012?style=flat-square&color=33d17a)](https://github.com/Antux912012)
 [![Profile Views](https://komarev.com/ghpvc/?username=Antux912012&color=3584e4&style=flat-square)](https://github.com/Antux912012)
@@ -50,18 +50,22 @@
 
 ### 🌟 Featured Flagship Projects
 
-#### 🌿 [Imladris (`v0.18.0`)](https://github.com/Antux912012/imladris) — [🌐 Official Landing Page](https://antux912012.github.io/imladris/) · [📖 Technical Wiki](https://github.com/Antux912012/imladris/wiki)
+#### 🌿 [Imladris (`v0.24.2`)](https://github.com/Antux912012/imladris) — [🌐 Official Landing Page](https://antux912012.github.io/imladris/) · [📖 Technical Wiki](https://github.com/Antux912012/imladris/wiki)
 > **Native Linux Scientific Workbench, Galaxy Bioinformatics Bridge & Polyglot Notebook IDE**
 - **Arekyer Galaxy-to-Quarto Provenance Bridge (`WIKI 02`)**: Connects upstream **Galaxy Project** histories (`usegalaxy.eu`, `usegalaxy.org`) to local `.qmd` and `.Rmd` manuscripts. Injects verifiable `httr2` (R) and `pandas` (Python) data loaders while securing API keys in the Linux OS keyring (`libsecret-1`) with isolated subprocess memory injection.
 - **Natural Math & Chemical Reaction Studio (`Ctrl+M`)**: Converts human-written mathematical expressions (`int(0, inf) e^(-x^2) dx`) and chemical reactions (`6CO2(g) + 6H2O(l) ->[h*nu] C6H12O6(aq) + 6O2(g)`) into LaTeX (`$$...$$`, `\ce{...}`) or Markdown (`~sub~`/`^sup^`) with live offline preview.
 - **1:1 RStudio `.Rproj` & Jupyter `nbformat 4.5` Parity**: Scaffolds native `.Rproj` and portable `.mallorn` (`tar.zst`) workspaces (`renv` + `.venv`), and provides lossless round-trip serialization of `.ipynb` cell IDs, execution counts, cell tags, and `Shift+Enter` cell execution.
 - **4-Quadrant RStudio Docking, R Shiny & Elrond Local AI**: Stateful R/Python REPLs, `Gtk.ColumnView` dataframe viewer, interactive R Shiny hosting (`Ctrl+Shift+A`), Zotero BetterBibTeX `@citekey` completion, local `llama-server`/Ollama copilot, and JSON-RPC 2.0 `--mcp-server`.
 
-#### 🧙‍♂️ [Mithrandir](https://github.com/Antux912012/mithrandir) & [Mithrandir-RS](https://github.com/Antux912012/mithrandir-rs)
+#### 🧙‍♂️ [Mithrandir (`v1.3.1`)](https://github.com/Antux912012/mithrandir) & [Mithrandir-RS](https://github.com/Antux912012/mithrandir-rs)
 > **Modern Linux System Cleaner, Optimizer & Kernel Power Utility**
-- **Rust + GTK4 / Libadwaita**: High-performance native GUI adhering strictly to GNOME HIG standards.
-- **Hardware & Kernel Tuning**: Dynamic BORE / EEVDF scheduler switching, BPF `sched-ext` controller, CPU EPP & frequency governor management.
+- **Rust + GTK4 / Libadwaita**: High-performance native GUI adhering strictly to GNOME HIG standards with bundled Papirus symbolic icons.
+- **Hardware & Kernel Tuning**: Dynamic BORE / EEVDF scheduler switching, distro-aware GRUB strategy, CPU EPP & frequency governor management.
 - **AI System Diagnostics**: Multi-provider LLM integration + local runner bridging (`llama.cpp`, Ollama, LM Studio) with strict data-loss guardrails.
+
+#### 🎬 [RecGo (`v0.1.6`)](https://github.com/Antux912012/RecGo)
+> **Native Wayland Screen, Window & Webcam Recorder for GNOME**
+- **Rust + GTK4 / Libadwaita + GStreamer**: GPU-accelerated PipeWire screen and V4L2 webcam recording with live draggable PiP shapes, countdown overlay, and bundled Papirus symbolic icons.
 
 #### ⛵ [Vingilot](https://github.com/Antux912012/Vingilot) & 🪐 [Kepler OS](https://github.com/Antux912012/kepler-os)
 > **Privacy-First Native WebKitGTK 6.0 Browser & Immutable Scientific Linux Distribution**
